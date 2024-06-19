@@ -56,4 +56,4 @@
 - [ ] Register as sole trader
 - [ ] Set up separate bank account for business
 - [ ] Set up business email address in protonmail
-- [ ] 
+/cmm
