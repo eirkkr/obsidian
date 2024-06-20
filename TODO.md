@@ -13,6 +13,7 @@
 - [ ] Optometrist
 - [ ] Flu vax
 - [ ] Covid vax
+- [ ] Dentist
 
 ## Physical Housekeeping
 
@@ -22,6 +23,8 @@
 - [ ] Get rid of other items
 - [ ] Shoes (donate?)
 - [ ] Minimise wardrobe
+- [ ] General re-organise home
+- [ ] Get rid of mountain bike
 
 ## Digital housekeeping
 
@@ -29,6 +32,9 @@
 - [ ] Tidy up proton inbox
 - [ ] Swap from google drive to alternative (proton?)
 - [ ] Set up email forwarding from legacy email accounts
+- [ ] Change keepass location and app
+- [ ] Delete unused digital accounts
+- [ ] Remove passwords from google
 
 ## Purchases
 
@@ -48,7 +54,7 @@
 - [ ] Replace list ubank debit card.
 - [ ] Re-evaluate share portfolio
 - [ ] Do taxes
-- [ ] Evaluate cheaper mobile internet
+- [ ] Evaluate cheaper mobile internet (mum suggested boost / aldi).
 - [ ] Create a budget
 
 ## App
@@ -56,4 +62,9 @@
 - [ ] Register as sole trader
 - [ ] Set up separate bank account for business
 - [ ] Set up business email address in protonmail
-/cmm
+- [ ] Get to minimum viable product
+
+## Car
+
+- [ ] Clean
+- [ ] Service
