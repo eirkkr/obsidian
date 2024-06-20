@@ -2,7 +2,9 @@
 
 ## MVP Requirements
 
-- [ ] decide on name
+- [ ] App name
+	- [ ] decide on a name
+	- [ ] Update name in all places
 - [ ] register as sole trader
 - [ ] create studynav email address
 - [ ] registration / login page
@@ -20,10 +22,10 @@
 	- [ ] Displays errors with study packages
 	- [ ] Include pre-requisites in the check
 - [ ] Home page
-	- [ ] Combine with 'about' page
+	- [x] Combine with 'about' page
 	- [ ] Have content configurable
-- [ ] configuration
-	- [ ] Choose which features are available (just study package, home, admin for now)
+- [x] configuration
+	- [x] Choose which features are available (just study package, home, admin for now)
 - [ ] create demo server
 	- [ ] add example study packages to play with
 	- [ ] no admin access to this
@@ -47,4 +49,3 @@
 	- [ ] users
 - [ ] admin page
 	- [ ] other configuration
-/commit

@@ -57,14 +57,8 @@
 - [ ] Evaluate cheaper mobile internet (mum suggested boost / aldi).
 - [ ] Create a budget
 
-## App
-
-- [ ] Register as sole trader
-- [ ] Set up separate bank account for business
-- [ ] Set up business email address in protonmail
-- [ ] Get to minimum viable product
-
 ## Car
 
 - [ ] Clean
 - [ ] Service
+/commit
