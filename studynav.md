@@ -23,7 +23,7 @@
 	- [ ] Include pre-requisites in the check
 - [ ] Home page
 	- [x] Combine with 'about' page
-	- [ ] Have content configurable
+	- [ ] Have content configurable per deployment
 - [x] configuration
 	- [x] Choose which features are available (just study package, home, admin for now)
 - [ ] create demo server

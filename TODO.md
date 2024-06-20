@@ -61,4 +61,3 @@
 
 - [ ] Clean
 - [ ] Service
-/commit
