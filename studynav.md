@@ -2,15 +2,23 @@
 
 ## MVP Requirements
 
-- [ ] App name
+### Business
+
+- [ ] app name
 	- [ ] decide on a name
-	- [ ] Update name in all places
-- [ ] register as sole trader
-- [ ] create studynav email address
+	- [ ] update name in all places
+- [ ] business activities
+	- [ ] get ABN (applied)
+	- [ ] register as sole trader
+	- [ ] create 'StudyNav' email address
+/commit
+### App
+
 - [ ] registration / login page
 	- [ ] name (used for comms)
 	- [ ] email auth
 	- [ ] change name and email address feature
+	- [ ] add log out
 - [ ] admin page
 	- [ ] Only visible to admin users (or greyed out?)
 	- [ ] ability to add other admins (with warning) and other users
@@ -26,14 +34,18 @@
 	- [ ] Have content configurable per deployment
 - [x] configuration
 	- [x] Choose which features are available (just study package, home, admin for now)
-- [ ] create demo server
-	- [ ] add example study packages to play with
-	- [ ] no admin access to this
-	- [ ] home page to have basic marketing info on how to get set up
-- [ ] Workflow for setting up an app for each uni
 - [ ] api
 	- [ ] study package upload / download
 	- [ ] upload available for admins only
+
+### Deployment
+
+- [ ] demo server
+	- [ ] add example study packages to play with
+	- [ ] no admin access to this
+	- [ ] home page to have basic marketing info on how to get set up
+- [ ] test server
+- [ ] Create workflow for setting up an app for each uni
 
 ## Future
 

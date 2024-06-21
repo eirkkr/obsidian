@@ -1,6 +1,10 @@
 # TODO
 
-## Property
+## Rental
+
+- [ ] Get Kim's name on the lease
+
+## Buy property
 
 - [ ] Get mortgage pre-approval
 - [ ] Contact local real-estate agents to get on mailing list
