@@ -39,14 +39,14 @@
 - [ ] Change keepass location and app
 - [ ] Delete unused digital accounts
 - [ ] Remove passwords from google
-
+/commit
 ## Purchases
 
 - [ ] coffee machine
 - [ ] clothes
 - [ ] transitions glasses
 - [ ] mini projector
-/commit
+
 ## Fitness / Health
 
 - [ ] Sign up for pilates class
