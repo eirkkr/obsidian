@@ -32,7 +32,7 @@
 
 ## Digital housekeeping
 
-- [ ] Swap to brave browser
+- [ ] Swap to brave browser (downloaded app on desktop)
 - [ ] Tidy up proton inbox
 - [ ] Swap from google drive to alternative (proton?)
 - [ ] Set up email forwarding from legacy email accounts
@@ -42,10 +42,11 @@
 
 ## Purchases
 
-- [ ] Buy coffee machine
-- [ ] Clothes
-- [ ] Transitions glasses
-
+- [ ] coffee machine
+- [ ] clothes
+- [ ] transitions glasses
+- [ ] mini projector
+/commit
 ## Fitness / Health
 
 - [ ] Sign up for pilates class
@@ -55,7 +56,7 @@
 ## Finance
 
 - [ ] Get a new credit card
-- [ ] Replace list ubank debit card.
+- [ ] Replace lost ubank debit card.
 - [ ] Re-evaluate share portfolio
 - [ ] Do taxes
 - [ ] Evaluate cheaper mobile internet (mum suggested boost / aldi).

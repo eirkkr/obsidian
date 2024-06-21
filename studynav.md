@@ -7,11 +7,14 @@
 - [ ] app name
 	- [ ] decide on a name
 	- [ ] update name in all places
-- [ ] business activities
-	- [ ] get ABN (applied)
-	- [ ] register as sole trader
-	- [ ] create 'StudyNav' email address
-/commit
+- [ ] get ABN
+	- [x] submit application
+	- [ ] follow-up actions
+- [ ] register as sole trader
+- [ ] create dedicated email address
+- [ ] create separate account for business
+- [ ] Record keeping
+
 ### App
 
 - [ ] registration / login page
@@ -37,6 +40,8 @@
 - [ ] api
 	- [ ] study package upload / download
 	- [ ] upload available for admins only
+- [ ] tests
+	- [ ] comprehensive tests for all features
 
 ### Deployment
 
