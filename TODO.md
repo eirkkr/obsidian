@@ -39,7 +39,7 @@
 - [ ] Change keepass location and app
 - [ ] Delete unused digital accounts
 - [ ] Remove passwords from google
-/commit
+
 ## Purchases
 
 - [ ] coffee machine
