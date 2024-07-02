@@ -13,12 +13,12 @@
 
 ## Health
 
-- [ ] GP appointment
+- [x] GP appointment
 - [ ] Optometrist
 - [ ] Flu vax
 - [ ] Covid vax
 - [ ] Dentist
-
+/commit
 ## Physical Housekeeping
 
 - [ ] Get rid of Saucony trail shoes
@@ -32,7 +32,7 @@
 
 ## Digital housekeeping
 
-- [ ] Swap to brave browser (downloaded app on desktop)
+- [x] Swap to brave browser (downloaded app on desktop)
 - [ ] Tidy up proton inbox
 - [ ] Swap from google drive to alternative (proton?)
 - [ ] Set up email forwarding from legacy email accounts
