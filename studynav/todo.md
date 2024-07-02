@@ -18,6 +18,7 @@
 ### App
 
 - [ ] registration / login page
+	- [ ] combine registration and login page
 	- [ ] name (used for comms)
 	- [ ] email auth
 	- [ ] change name and email address feature
