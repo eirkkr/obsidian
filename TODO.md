@@ -18,7 +18,7 @@
 - [ ] Flu vax
 - [ ] Covid vax
 - [ ] Dentist
-/commit
+
 ## Physical Housekeeping
 
 - [ ] Get rid of Saucony trail shoes
