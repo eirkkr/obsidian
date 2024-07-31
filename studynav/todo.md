@@ -4,15 +4,15 @@
 
 ### Business
 
-- [ ] app name
-	- [ ] decide on a name
-	- [ ] update name in all places
+- [x] app name
+	- [x] decide on a name
+	- [x] update name in all places
 - [ ] get ABN
 	- [x] submit application
 	- [ ] follow-up actions
 - [ ] register as sole trader
-- [ ] create dedicated email address
-- [ ] create separate account for business
+- [x] create dedicated email address
+- [x] create separate bank account for business
 - [ ] Record keeping
 
 ### App

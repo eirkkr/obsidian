@@ -7,5 +7,4 @@
 5. Navigate install location, e.g. `cd ~/Desktop`
 6. Clone the repo: `git clone https://github.com/daviseford/aos-reminders.git`
 7. Navigate to inside the repo: `cd aos-reminders`
-8. Follow instructions in the READMe https://github.com/daviseford/aos-reminders, starting with `yarn install`
-/commit
+8. Follow instructions in the README https://github.com/daviseford/aos-reminders, starting with `yarn install`

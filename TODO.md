@@ -6,7 +6,7 @@
 
 ## Buy property
 
-- [ ] Get mortgage pre-approval
+- [x] Get mortgage pre-approval
 - [ ] Contact local real-estate agents to get on mailing list
 - [ ] Configure other mailing lists / alerts
 - [ ] Top-up first home owner super saver
@@ -14,10 +14,10 @@
 ## Health
 
 - [x] GP appointment
-- [ ] Optometrist
+- [x] Optometrist
 - [ ] Flu vax
 - [ ] Covid vax
-- [ ] Dentist
+- [x] Dentist
 
 ## Physical Housekeeping
 
@@ -50,7 +50,7 @@
 ## Fitness / Health
 
 - [ ] Sign up for pilates class
-- [ ] Develop fitness routine
+- [x] Develop fitness routine
 - [ ] Develop meal prep routine
 
 ## Finance
@@ -66,3 +66,4 @@
 
 - [ ] Clean
 - [ ] Service
+/com
