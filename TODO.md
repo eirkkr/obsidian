@@ -15,8 +15,8 @@
 
 - [x] GP appointment
 - [x] Optometrist
-- [ ] Flu vax
-- [ ] Covid vax
+- [x] Flu vax
+- [x] Covid vax
 - [x] Dentist
 
 ## Physical Housekeeping
@@ -49,16 +49,16 @@
 
 ## Fitness / Health
 
-- [ ] Sign up for pilates class
+- [x] Sign up for pilates class
 - [x] Develop fitness routine
 - [ ] Develop meal prep routine
 
 ## Finance
 
 - [ ] Get a new credit card
-- [ ] Replace lost ubank debit card.
+- [x] Replace lost ubank debit card.
 - [ ] Re-evaluate share portfolio
-- [ ] Do taxes
+- [x] Do taxes
 - [ ] Evaluate cheaper mobile internet (mum suggested boost / aldi).
 - [ ] Create a budget
 
@@ -66,4 +66,3 @@
 
 - [ ] Clean
 - [ ] Service
-/com

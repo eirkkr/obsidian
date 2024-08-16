@@ -50,7 +50,7 @@
 	- [ ] add example study packages to play with
 	- [ ] no admin access to this
 	- [ ] home page to have basic marketing info on how to get set up
-- [ ] test server
+- [x] test server
 - [ ] Create workflow for setting up an app for each uni
 
 ## Future
@@ -67,3 +67,4 @@
 	- [ ] users
 - [ ] admin page
 	- [ ] other configuration
+/commit
