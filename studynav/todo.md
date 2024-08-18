@@ -3,18 +3,18 @@
 ## MVP Requirements
 
 ### Business
-
+/commit
 - [x] app name
 	- [x] decide on a name
 	- [x] update name in all places
 - [ ] get ABN
 	- [x] submit application
 	- [ ] follow-up actions
-- [ ] register as sole trader
+- [x] register as sole trader
 - [x] create dedicated email address
 - [x] create separate bank account for business
 - [ ] Record keeping
-/commit
+
 ### App
 
 - [ ] registration / login page
