@@ -14,15 +14,15 @@
 - [x] create dedicated email address
 - [x] create separate bank account for business
 - [ ] Record keeping
-
+/commit
 ### App
 
 - [ ] registration / login page
-	- [ ] combine registration and login page
-	- [ ] name (used for comms)
+	- [x] combine registration and login page
+	- [x] name (used for comms)
 	- [ ] email auth
-	- [ ] change name and email address feature
-	- [ ] add log out
+	- [x] change name and email address feature
+	- [x] add log out
 - [ ] admin page
 	- [ ] Only visible to admin users (or greyed out?)
 	- [ ] ability to add other admins (with warning) and other users
@@ -67,4 +67,4 @@
 	- [ ] users
 - [ ] admin page
 	- [ ] other configuration
-/commit
+
