@@ -3,7 +3,7 @@
 ## MVP Requirements
 
 ### Business
-/commit
+
 - [x] app name
 	- [x] decide on a name
 	- [x] update name in all places
@@ -43,6 +43,8 @@
 	- [ ] upload available for admins only
 - [ ] tests
 	- [ ] comprehensive tests for all features
+- [ ] Restore history feature
+- [ ] https
 
 ### Deployment
 
@@ -67,4 +69,3 @@
 	- [ ] users
 - [ ] admin page
 	- [ ] other configuration
-
