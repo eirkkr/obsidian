@@ -2,7 +2,7 @@
 
 ## Rental
 
-- [ ] Get Kim's name on the lease
+- [x] Get Kim's name on the lease
 
 ## Buy property
 
@@ -44,7 +44,7 @@
 
 - [ ] coffee machine
 - [ ] clothes
-- [ ] transitions glasses
+- [x] transitions glasses
 - [ ] mini projector
 
 ## Fitness / Health
