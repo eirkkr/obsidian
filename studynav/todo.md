@@ -56,6 +56,7 @@
 - [ ] Create workflow for setting up an app for each uni
 - [ ] Get an elastic ip address so dns re-routes on ec2 restart
 - [ ] Enable HTTPS (might need to get a certificate from somewhere other than AWS)
+- [ ] Enable permanent storage (EBS?). Currently if the instance is stopped data is lost.
 
 ## Future
 
