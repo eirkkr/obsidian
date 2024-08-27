@@ -54,6 +54,7 @@
 	- [ ] home page to have basic marketing info on how to get set up
 - [x] test server
 - [ ] Create workflow for setting up an app for each uni
+- [ ] Get an elastic ip address so dns re-routes on ec2 restart
 
 ## Future
 
