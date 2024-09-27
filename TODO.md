@@ -42,7 +42,7 @@
 
 ## Purchases
 
-- [ ] coffee machine
+- [x] coffee machine (cancelled)
 - [ ] clothes
 - [x] transitions glasses
 - [ ] mini projector

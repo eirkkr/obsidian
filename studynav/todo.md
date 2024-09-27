@@ -44,27 +44,27 @@
 - [ ] tests
 	- [ ] comprehensive tests for all features
 - [ ] Restore history feature
-- [ ] https
 
 ### Deployment
 
 - [ ] demo server
-	- [ ] add example study packages to play with
+	- [x] add example study packages to play with
 	- [ ] no admin access to this
 	- [ ] home page to have basic marketing info on how to get set up
 - [x] test server
 - [ ] Create workflow for setting up an app for each uni
 - [ ] Get an elastic ip address so dns re-routes on ec2 restart
 - [ ] Enable HTTPS (might need to get a certificate from somewhere other than AWS)
-- [ ] Enable permanent storage (EBS?). Currently if the instance is stopped data is lost.
+- [x] Enable permanent storage (EBS?). Currently if the instance is stopped data is lost.
+- [ ] Backups
 
 ## Future
 
-- [ ] course builder page
+- [ ] study plan page
 	- [ ] user-level study packages for experimenting
 	- [ ] new collection, same as spk, except with user and a version
 - [ ] study package page
-	- [ ] users can copy spk into course builder
+	- [x] users can copy spk into course builder
 	- [ ] csv export?
 - [ ] Single sign-on?
 - [ ] MFA
