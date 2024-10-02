@@ -74,3 +74,5 @@
 	- [ ] users
 - [ ] admin page
 	- [ ] other configuration
+- [ ] General UI
+	- [ ] Warn on delete
