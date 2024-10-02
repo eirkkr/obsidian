@@ -24,11 +24,13 @@
 	- [x] change name and email address feature
 	- [x] add log out
 - [ ] admin page
-	- [ ] Only visible to admin users (or greyed out?)
-	- [ ] ability to add other admins (with warning) and other users
+	- [x] Only visible to admin users (or greyed out?)
+	- [x] ability to add other admins (with warning) and other users
+	- [ ] Admins can enable or disable self user registration.
+	- [ ] Admins can create other users.
 - [ ] spk page
-	- [ ] display full study package details
-	- [ ] display components properly
+	- [x] display full study package details
+	- [x] display components properly
 	- [ ] csv import for study packages
 	- [ ] edit / import only for admins
 	- [ ] Displays errors with study packages
