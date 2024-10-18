@@ -100,7 +100,7 @@
 
 ### Deployment
 
-- [ ] demo server
+- [ ] Demo server
 	- [x] add example study packages to play with
 	- [ ] no admin access to this
 	- [ ] home page to have basic marketing info on how to get set up
@@ -120,3 +120,4 @@
 - [ ] Set up jobs on server to pull / push data?
 - [ ] Add availabilities
 - [ ] Check for availabilities
+- [ ] Generate reports
