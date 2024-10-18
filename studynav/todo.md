@@ -4,48 +4,99 @@
 
 ### Business
 
-- [x] app name
-	- [x] decide on a name
-	- [x] update name in all places
-- [ ] get ABN
-	- [x] submit application
-	- [ ] follow-up actions
-- [x] register as sole trader
-- [x] create dedicated email address
+- [ ] Complete follow-up ABN actions
+- [ ] Develop an IP lawyer contact
+- [ ] Develop a commercialisation expert contact
+- [x] Develop financial record keeping processes
+- [x] Decide app name
+- [x] Get ABN
+- [x] Register as sole trader
+- [x] Create dedicated email address
 - [x] create separate bank account for business
-- [ ] Record keeping
 
-### App
+### GUI
 
-- [ ] registration / login page
-	- [x] combine registration and login page
-	- [x] name (used for comms)
-	- [ ] email auth
-	- [x] change name and email address feature
-	- [x] add log out
-- [ ] admin page
-	- [x] Only visible to admin users (or greyed out?)
-	- [x] ability to add other admins (with warning) and other users
-	- [ ] Admins can enable or disable self user registration.
-	- [ ] Admins can create other users.
-- [ ] spk page
-	- [x] display full study package details
-	- [x] display components properly
-	- [ ] csv import for study packages
-	- [ ] edit / import only for admins
-	- [ ] Displays errors with study packages
-	- [ ] Include pre-requisites in the check
-- [ ] Home page
-	- [x] Combine with 'about' page
-	- [ ] Have content configurable per deployment
-- [x] configuration
-	- [x] Choose which features are available (just study package, home, admin for now)
-- [ ] api
-	- [ ] study package upload / download
-	- [ ] upload available for admins only
-- [ ] tests
-	- [ ] comprehensive tests for all features
-- [ ] Restore history feature
+#### Home
+
+- [ ] Finalise default home page
+
+#### Login/Register
+
+- [ ] Email auth
+- [ ] Validate email address regex
+- [x] Change name and email
+- [x] Log out button
+
+#### Global Admin
+
+- [ ] Customise home page content
+- [ ] Customise footer link
+- [ ] Customise font/theme
+- [ ] Map terms, e.g. course -> program
+- [ ] Enable/disable user self registration
+- [ ] Enable/disable features
+- [ ] Enable/disable user self delete
+
+#### User Admin
+
+- [ ] Create other users
+- [ ] Disable other users
+- [ ] Add/remove admin privileges (with warning)
+- [x] Delete other users
+
+#### Study Package
+
+- [ ] Tabular import/export single study package
+- [ ] Delete components
+- [ ] Check for broken pre-requisites
+- [ ] View/restore history for single study package
+- [x] Check for missing components
+- [x] Check for duplicate components
+- [x] Check for incorrect credits
+- [x] Create/edit/delete permissions for admins only
+- [x] Add components
+- [x] Edit components
+- [x] Create study package
+- [x] Delete study package
+- [x] Edit study package details (e.g. title, credits)
+- [x] Add study package checks button
+- [x] display components properly
+
+#### Draft Study Package
+
+- [ ] Same features as study package, but a few differences
+- [ ] View existing drafts you have permission for (admins see all)
+- [ ] Draft study packages are keyed on a study package draft code instead of study package code and version, allowing users to create multiple drafts for the same study package and version
+- [ ] Create new blank draft study packages
+- [ ] Give other users permission for the draft package
+- [ ] Copy non-draft to a new draft study package
+- [ ] Allow checks to be run on draft study packages
+- [ ] Checks can refer to the live components or draft components
+
+#### Study Period
+
+- [x] … Disable by default
+
+### UI
+
+- [ ] Finalise design for default content size
+- [ ] Create SVG logo and favicon
+- [ ] Add light mode
+- [ ] Adjust layout depending on screen size
+- [ ] Warn on delete
+- [ ] Move interactions to top of page
+
+### API
+
+- [ ] Study package upload / download
+- [ ] Available for admins only
+
+### Tests
+
+- [ ] Develop comprehensive unit tests for all public methods
+- [ ] Develop comprehensive integration tests?
+- [ ] Develop comprehensive end-to-end tests?
+- [ ] Create test workflow / CI
 
 ### Deployment
 
@@ -53,26 +104,19 @@
 	- [x] add example study packages to play with
 	- [ ] no admin access to this
 	- [ ] home page to have basic marketing info on how to get set up
-- [x] test server
 - [ ] Create workflow for setting up an app for each uni
 - [ ] Get an elastic ip address so dns re-routes on ec2 restart
-- [ ] Enable HTTPS (might need to get a certificate from somewhere other than AWS)
+- [ ] Create a workflow for setting up backups
+- [x] Enable HTTPS (might need to get a certificate from somewhere other than AWS)
 - [x] Enable permanent storage (EBS?). Currently if the instance is stopped data is lost.
-- [ ] Backups
 
 ## Future
 
-- [ ] study plan page
-	- [ ] user-level study packages for experimenting
-	- [ ] new collection, same as spk, except with user and a version
-- [ ] study package page
-	- [x] users can copy spk into course builder
-	- [ ] csv export?
-- [ ] Single sign-on?
+- [ ] Single Sign On (SSO)
 - [ ] MFA
-- [ ] api
-	- [ ] users
-- [ ] admin page
-	- [ ] other configuration
-- [ ] General UI
-	- [ ] Warn on delete
+- [ ] Users API
+- [ ] Study Plan API
+- [ ] Draft Study Package API
+- [ ] Set up jobs on server to pull / push data?
+- [ ] Add availabilities
+- [ ] Check for availabilities
