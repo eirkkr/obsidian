@@ -79,6 +79,7 @@
 - [ ] Create SVG logo and favicon
 - [ ] Warn on delete
 - [ ] Move buttons to top of page
+- [ ] Add 'create' button instead of having to do a retrieve first
 
 ### API
 
