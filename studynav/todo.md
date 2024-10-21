@@ -41,7 +41,7 @@
 
 - [ ] Create other users
 - [ ] Disable other users
-- [ ] Add/remove admin privileges (with warning)
+- [x] Add/remove admin privileges (with warning)
 - [x] Delete other users
 
 #### Study Package
@@ -73,30 +73,23 @@
 - [ ] Allow checks to be run on draft study packages
 - [ ] Checks can refer to the live components or draft components
 
-#### Study Period
-
-- [x] … Disable by default
-
 ### UI
 
 - [ ] Finalise design for default content size
 - [ ] Create SVG logo and favicon
-- [ ] Add light mode
-- [ ] Adjust layout depending on screen size
 - [ ] Warn on delete
-- [ ] Move interactions to top of page
+- [ ] Move buttons to top of page
 
 ### API
 
 - [ ] Study package upload / download
-- [ ] Available for admins only
+- [ ] Restrict to admins only
 
 ### Tests
 
 - [ ] Develop comprehensive unit tests for all public methods
 - [ ] Develop comprehensive integration tests?
 - [ ] Develop comprehensive end-to-end tests?
-- [ ] Create test workflow / CI
 
 ### Deployment
 
@@ -121,3 +114,7 @@
 - [ ] Add availabilities
 - [ ] Check for availabilities
 - [ ] Generate reports
+- [ ] Add light mode
+- [ ] Adjust layout depending on screen size
+- [ ] Create test workflow / CI
+- [ ] Mongo script should auto-remove deprecated indexes
