@@ -119,3 +119,4 @@
 - [ ] Adjust layout depending on screen size
 - [ ] Create test workflow / CI
 - [ ] Mongo script should auto-remove deprecated indexes
+- [ ] Implement a password policy
