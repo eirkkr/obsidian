@@ -14,8 +14,8 @@
 - [[#2. IP Ownership Risks|2. IP Ownership Risks]]
 	- [[#2. IP Ownership Risks#2.1 Summary|2.1 Summary]]
 	- [[#2. IP Ownership Risks#2.2 Mitigation|2.2 Mitigation]]
-	- [[#2. IP Ownership Risks#2.3 Other Factors|2.3 Other Factors]]
 - [[#2. License to University|2. License to University]]
+- [[#3. Other considerations|3. Other considerations]]
 
 ## 1. IP Ownership
 
@@ -122,7 +122,7 @@ When creating the app, I have been careful to work on it:
 >
 > Curtin seeks to foster a culture which values and rewards technology transfer and entrepreneurial endeavour; promotes collaboration between the University, staff and industry; and maximises the benefits to Australia from publicly funded research. Curtin encourages staff to actively engage in commercialisation of intellectual property (IP) and be rewarded for that activity.*
 
-## 2. IP Ownership Risks
+## 2. Risks
 
 ### 2.1 Summary
 
