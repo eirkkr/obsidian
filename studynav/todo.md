@@ -24,6 +24,7 @@
 
 - [ ] Email auth
 - [ ] Validate email address regex
+- [ ] Implement a password policy / validation
 - [x] Change name and email
 - [x] Log out button
 
@@ -119,4 +120,3 @@
 - [ ] Adjust layout depending on screen size
 - [ ] Create test workflow / CI
 - [ ] Mongo script should auto-remove deprecated indexes
-- [ ] Implement a password policy
