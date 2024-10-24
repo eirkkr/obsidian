@@ -120,3 +120,4 @@
 - [ ] Adjust layout depending on screen size
 - [ ] Create test workflow / CI
 - [ ] Mongo script should auto-remove deprecated indexes
+- [ ] Create root user on initial deployment and remove alternative code path from profile.py
